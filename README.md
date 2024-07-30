@@ -11,7 +11,7 @@ Simple Koa est un projet minimaliste qui vous permet de démarrer rapidement ave
 1. Clonez ce repository :
 
 ```
-git clone https://github.com/votre-username/simple_koa.git
+git clone https://github.com/Dilgo-dev/simple_koa.git
 ```
 
 2. Installez les dépendances :
@@ -60,7 +60,7 @@ simple_koa/
 ### 🧙 Fonctionnalités
 
 -   🔮 Configuration automatique du port via variables d'environnement
--   🐨 Message d'accueil Koa avec un koala adorable
+-   🐨 Message d'accueil Koa avec un koala (Quoi ?)
 -   🔥 Rechargement à chaud en mode développement grâce à Nodemon
 
 ### 📝 Exemple de code

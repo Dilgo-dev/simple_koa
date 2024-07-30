@@ -1,0 +1,21 @@
+{
+    "name": "simple_koa",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node src/server.js",
+        "dev": "nodemon src/server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "koa": "^2.15.3"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.4"
+    }
+}
